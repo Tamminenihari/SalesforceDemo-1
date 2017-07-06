@@ -85,6 +85,16 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>GIT_Test__c</fullName>
+        <externalId>false</externalId>
+        <label>GIT Test</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>NewField__c</fullName>
         <externalId>false</externalId>
         <label>NewField</label>
